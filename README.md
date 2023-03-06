@@ -7,5 +7,5 @@
 
 ## Descripción General:
 
-Este es un proyecto backend el cual esta conectado a una base de datos mediante API Rest para implementar un CRUD (crear, leer, actualizar y eliminar) con relaciones de tablas, Hibernate/JPA, y adicionalmente realiza las siguientes funciones: Login, paginación, subida de archivos, manejo de errores, validación de formulario, y completo sistema de facturación.
+Este es un proyecto backend, el cual esta conectado a una base de datos mediante API Rest para implementar un CRUD (crear, leer, actualizar y eliminar) con relaciones de tablas, Hibernate/JPA, y adicionalmente realiza las siguientes funciones: Login, paginación, subida de archivos, manejo de errores, validación de formulario, y completo sistema de facturación.
 
